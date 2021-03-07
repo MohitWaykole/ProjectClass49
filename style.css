@@ -1,0 +1,56 @@
+.header{
+    background-color: aliceblue;
+    background-image:url("origami4.jpg");
+    background-position: center;
+}
+
+.links{
+    display: inline;
+    background-image:url("origami5.jpg");
+}
+
+.body{
+    background-color: lightcoral;
+}
+
+.camel img{
+    border: solid;
+    border-color: lightseagreen;
+    border-radius: 10px;
+}
+
+.chameleon img{
+    border:solid;
+    border-color:lightseagreen;
+    border-radius: 10px;
+}
+
+.pigeon img{
+    border:solid;
+    border-color:lightseagreen;
+    border-radius: 10px;
+}
+
+.cicada img{
+    border:solid;
+    border-color:lightseagreen;
+    border-radius: 10px;
+}
+
+.teddy img{
+    border:solid;
+    border-color:lightseagreen;
+    border-radius: 10px;
+}
+
+.panda img{
+    border:solid;
+    border-color:lightseagreen;
+    border-radius: 10px;
+}
+
+.aboutOrigami{
+    border: solid;
+    border-radius: 10px;
+    background-color: rgb(23, 241, 205);
+}
